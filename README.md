@@ -3,6 +3,7 @@ This is a code I submitted once as a python challenge. Any scanned printed docum
 
 
 Input -  Image name of images in Input folder along with extension (any supported by openCV)
+
 Output - The lines and letters after cropping is saved into the Lines and Letters folder present in the file in that order.
 
 
